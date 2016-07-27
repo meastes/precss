@@ -305,7 +305,7 @@ grunt.initConfig({
 
 PreCSS blends Sass-like strength with W3C future-syntax superpower, powered by the following plugins (in this order):
 
-- [postcss-import]: W3C and Sass-like imports
+- [postcss-partial-import]: W3C and Sass-like imports
 - [postcss-mixins]: Sass-like mixins
 - [postcss-advanced-variables]: Sass-like variables and methods
 - [postcss-custom-selectors]: W3C custom selectors
@@ -335,7 +335,7 @@ PreCSS blends Sass-like strength with W3C future-syntax superpower, powered by t
 [postcss-selector-matches]:   https://github.com/postcss/postcss-selector-matches
 [postcss-property-lookup]:    https://github.com/simonsmith/postcss-property-lookup
 [postcss-color-function]:     https://github.com/postcss/postcss-color-function
-[postcss-import]:             https://github.com/postcss/postcss-import
+[postcss-import]:             https://github.com/jonathantneal/postcss-partial-import
 [postcss-custom-media]:       https://github.com/postcss/postcss-custom-media
 [postcss-media-minmax]:       https://github.com/postcss/postcss-media-minmax
 [postcss-selector-not]:       https://github.com/postcss/postcss-selector-not

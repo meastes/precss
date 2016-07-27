@@ -3,7 +3,7 @@ var postcss = require('postcss');
 // list of all plugins
 var processors = [
 	{
-		plugin:    require('postcss-import'),
+		plugin:    require('postcss-partial-import'),
 		namespace: 'import',
 		defaults:  {}
 	},
