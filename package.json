@@ -40,7 +40,7 @@
     "postcss-custom-properties": "^5.0.0",
     "postcss-custom-selectors": "^3.0.0",
     "postcss-extend": "^1.0.1",
-    "postcss-import": "^8.1.2",
+    "postcss-import": "github:meastes/postcss-import",
     "postcss-media-minmax": "^2.1.0",
     "postcss-mixins": "^2.1.0",
     "postcss-nested": "^1.0.0",
